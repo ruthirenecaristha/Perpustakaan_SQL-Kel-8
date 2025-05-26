@@ -879,7 +879,7 @@ SET FOREIGN_KEY_CHECKS=1;
 
 INSERT INTO `users` (`userId`, `nama`, `noTelp`, `jenisKelamin`, `email`, `alamat`) VALUES
 ('M123877', 'Abagail', '(021) - 428605', 'wanita', 'abagail@example.com', '81 St'),
-('M123878', 'Abbe', '(021) -buku 428606', 'pria', 'abbe@example.com', 'Elm Dr'),
+('M123878', 'Abbe', '(021) - 428606', 'pria', 'abbe@example.com', 'Elm Dr'),
 ('M123880', 'Abbi', '(021) - 428608', 'pria', 'abbi@example.com', 'Fairchild Avenue'),
 ('M123881', 'Abbie', '(021) - 428609', 'wanita', 'abbie@example.com', '60 St'),
 ('M123882', 'Abby', '(021) - 428610', 'wanita', 'abby@example.com', 'Broadway'),
